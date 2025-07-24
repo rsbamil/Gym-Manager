@@ -1,4 +1,4 @@
-Live Preview -->  
+Live Preview -->  https://gym-manager-five.vercel.app/
 
 
 # 🏋️‍♂️ GYM Manager
